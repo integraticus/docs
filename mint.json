@@ -8,17 +8,17 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#723bff",
-    "light": "#efe3ff",
+    "light": "#7cecca",
     "dark": "#723bff",
     "anchors": {
       "from": "#723bff",
-      "to": "#efe3ff"
+      "to": "#7cecca"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:info@integraticus.com"
+      "url": "https://onu.ai/contact/"
     }
   ],
   "topbarCtaButton": {
